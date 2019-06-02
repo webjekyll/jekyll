@@ -1,4 +1,4 @@
-<h1>WSL: Kaspersky's Problem</h1>
+<h1>Jekyll</h1>
 
 <img src="pictures/webjekyll.png" width="150">
 
