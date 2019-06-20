@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Another page
+title: Page 5
 description: This is just another page
 ---
 
