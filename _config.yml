@@ -1,8 +1,11 @@
-title: Jekyll (001)
+title: (006) Hello Jekyll
+description: WebWeb12 with jekyll-theme-hacker
+show_downloads: true
+google_analytics:
 
-theme: jekyll-theme-midnight
-# theme: jekyll-theme-hacker
+theme: jekyll-theme-hacker
+# theme: jekyll-theme-midnight
 
-# Fixing the "No GitHub API authentication could be found"
+# Fixing the "No GitHub API authentication could be found" ??
 github: [metadata]
 
