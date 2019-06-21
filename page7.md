@@ -1,5 +1,5 @@
 ---
-title: Page 3
+title: Page 7
 layout: default
 description: This is just another page
 ---

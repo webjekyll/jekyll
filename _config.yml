@@ -1,5 +1,5 @@
 title: Jekyll, GitHub Pages, and Ubuntu
-description: Version 007 --- 20190620
+description: Version 008 --- 20190621
 show_downloads: true
 google_analytics:
 
@@ -8,4 +8,5 @@ theme: jekyll-theme-hacker
 
 # Fixing the "No GitHub API authentication could be found" ??
 github: [metadata]
+
 
