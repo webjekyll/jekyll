@@ -24,13 +24,21 @@ description: This is just another page
      https://help.github.com/en/articles/user-organization-and-project-pages
     )
 
-- [Customizing GitHub Pages](
-   https://help.github.com/en/categories/customizing-github-pages
+- [Using Jekyll as a static site generator with GitHub Pages](
+   https://help.github.com/en/articles/using-jekyll-as-a-static-site-generator-with-github-pages
+  )
+
+- [Liquid](
+   https://shopify.github.io/liquid/
   )
 
 - [Troubleshooting GitHub Pages builds](
    https://help.github.com/en/articles/troubleshooting-github-pages-builds
   )
+
+- [GitHub Products](
+   https://help.github.com/en/articles/githubs-products
+ )
 
 # [BACK](./)
 
