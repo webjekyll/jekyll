@@ -24,35 +24,14 @@ description: This is just another page
      https://help.github.com/en/articles/user-organization-and-project-pages
     )
 
-<<<<<<< HEAD
-- [Using Jekyll as a static site generator with GitHub Pages](
-   https://help.github.com/en/articles/using-jekyll-as-a-static-site-generator-with-github-pages
-  )
-
-- [Liquid](
-   https://shopify.github.io/liquid/
-  )
-
-||||||| merged common ancestors
 - [Customizing GitHub Pages](
    https://help.github.com/en/categories/customizing-github-pages
   )
 
-=======
->>>>>>> 6d9aa1e14a5e7a8d078f8e7672a33865aa44bdaf
 - [Troubleshooting GitHub Pages builds](
    https://help.github.com/en/articles/troubleshooting-github-pages-builds
   )
 
-<<<<<<< HEAD
-- [GitHub Products](
-   https://help.github.com/en/articles/githubs-products
- )
-
-# [BACK](./)
-||||||| merged common ancestors
-# [BACK](./)
-=======
 - [GitHub Products](
    https://help.github.com/en/articles/githubs-products
  )
@@ -86,5 +65,4 @@ description: This is just another page
   )
 
 ### [back](./)
->>>>>>> 6d9aa1e14a5e7a8d078f8e7672a33865aa44bdaf
 
