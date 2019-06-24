@@ -1,5 +1,13 @@
+<<<<<<< HEAD
 title: GitHub Pages, Ubuntu, and Jekyll
 description: Version 009 --- 20190621
+||||||| merged common ancestors
+title: Jekyll, GitHub Pages, and Ubuntu
+description: Version 008 --- 20190621
+=======
+title: Jekyll, GitHub Pages, and Ubuntu
+description: Version 009 --- 20190623
+>>>>>>> 6d9aa1e14a5e7a8d078f8e7672a33865aa44bdaf
 show_downloads: true
 google_analytics:
 
