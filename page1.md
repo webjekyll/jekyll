@@ -24,10 +24,6 @@ description: This is just another page
      https://help.github.com/en/articles/user-organization-and-project-pages
     )
 
-- [Customizing GitHub Pages](
-   https://help.github.com/en/categories/customizing-github-pages
-  )
-
 - [Troubleshooting GitHub Pages builds](
    https://help.github.com/en/articles/troubleshooting-github-pages-builds
   )
@@ -44,9 +40,25 @@ description: This is just another page
    https://help.github.com/en/articles/using-jekyll-as-a-static-site-generator-with-github-pages
   )
 
+- [Configuring Jekyll](
+   https://help.github.com/en/articles/configuring-jekyll
+  )
+
 - [Customizing CSS and HTML in your Jekyll theme](
    https://help.github.com/en/articles/customizing-css-and-html-in-your-jekyll-theme
   )
+
+- [Jekyll -- Configuration](
+   https://jekyllrb.com/docs/configuration/
+  )
+
+  - [Jekyll -- Default Configuration](
+     https://jekyllrb.com/docs/configuration/default/
+    )
+
+  - [Jekyll -- Markdown Kramdown](
+     https://jekyllrb.com/docs/configuration/markdown/
+    )
 
 - [Jekyll’s Gem](
    https://rubygems.org/gems/jekyll
@@ -62,6 +74,22 @@ description: This is just another page
 
 - [Inlining JSON in a Jekyll Liquid Template](
    https://mrcoles.com/inlining-json-jekyll-liquid-template/
+  )
+
+### [back](./)
+
+# [More](https://Webweb4.vlsm.org/)
+
+- [How to Create and Launch a Website from Start to Finish](
+   https://startbootstrap.com/guides/how-to-create-a-website-with-github-pages/
+  )
+
+- [Jekyll - Static Site Generator](
+   https://www.youtube.com/watch?v=T1itpPvFWHI&list=PLLAZ4kZ9dFpOPV5C5Ay0pHaa0RJFhcmcB
+  )
+  
+- [GitHub Desktop](
+   https://desktop.github.com/
   )
 
 ### [back](./)
