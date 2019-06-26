@@ -1,7 +1,9 @@
 ---
 ---
 
-This is just a Jekyll Test GitHub Page.
+# [GitHub Pages](https://jekyll.vlsm.org/)
+
+# [GitHub](https://github.com/webjekyll/jekyll)
 
 - [Links](./page1.html)
 
