@@ -2,7 +2,7 @@
 description: This is just another page
 categories: whenever
 permalink: /whatever/newPage4.html
-layout: coba1
+layout: mylayout
 ---
 
 ### [back1](../)
