@@ -1,8 +1,8 @@
 ---
-title: Page 4
 description: This is just another page
-layout: default
+categories: whenever
 permalink: /whatever/newPage4.html
+layout: coba1
 ---
 
 ### [back1](../)
