@@ -5,7 +5,7 @@ title: "Testing"
 author: "Testdir Author"
 ---
 
-- [HOME](../../)
+- [HOME](../)
 
 <h2>{{ site.author }}</h2>
 <hr>
