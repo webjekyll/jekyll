@@ -1,0 +1,42 @@
+---
+layout: "default"
+author: "INDEX Author"
+---
+<hr>
+<h3><a 
+href="./tutorial/">Tutorial</a> -- <a
+href="./about/">About</a> -- <a
+href="./test/">Test Page</a> -- <a
+href="./xyzzy/">Test 404</a> -- <a
+href="https://github.com/webjekyll/WebWeb03">GitHub</a></h3>
+<hr>
+<h1>To Whom It May Concern</h1>
+I am just following 
+<a href="https://www.mikedane.com/">Mike Dane</a>'s
+<a href="https://www.youtube.com/playlist?list=PLLAZ4kZ9dFpOPV5C5Ay0pHaa0RJFhcmcB">tutorial</a>.
+It is a really really great tutorial! 
+<ul>
+{% for post in site.posts %}
+<li><a href="{{ post.url }}">{{ post.title }}</a></li>
+{% endfor %}
+</ul>
+My two cents tips would be:
+<ol><li>  Do not give up! What is not understood might be explained later.
+</li><li> Do not mess with GitHub Page until the end of this tutorial.
+</li><li> This is a Jekyll tutorial. 
+          It will not cover in details the problems of installing 
+          Jekyll, Gems, Bundler, mismatched Versions, and sometimes... 
+          antivirus interference!
+</li><li> Neither will it cover the problems of minima theme on GitHub Page.
+</li></ol>
+Last, it is a <b>free</b> tutorial using <b>free</b> software. 
+<b>BUT</b>, you will need a lot of <b>FREE</b> time! 
+<br>
+Thank you 
+<a href="https://www.mikedane.com/"><b>Mike</b></a>,
+may Jekyll be with you!
+<br><br>
+<h2>{{ site.author }}</h2>
+<br>
+<hr>
+

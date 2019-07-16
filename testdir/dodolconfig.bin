@@ -1,0 +1,36 @@
+title: Trying Jekyll at Giraffe Academy
+description: >-
+  (V037 20190715) I am just following Mike Dane's tutorial.
+  It is a really really great tutorial!
+author: "Mr. Yoda-Yoda"
+# baseurl: "" 
+# url: "" 
+email: site@ma.il
+twitter_username: twitter
+github_username:  webjekyll
+
+# Build settings
+markdown: kramdown
+theme: jekyll-theme-hacker
+# theme: minima
+github: [metadata]
+plugins:
+  - jekyll-feed
+
+defaults:
+  -
+    scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "mypost"
+      author: "Default Page Author"
+
+# exclude:
+#   - Gemfile
+#   - Gemfile.lock
+#   - node_modules
+#   - vendor/bundle/
+#   - vendor/cache/
+#   - vendor/gems/
+#   - vendor/ruby/
