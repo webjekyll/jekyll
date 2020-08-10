@@ -1,6 +1,8 @@
 title: GitHub Pages, Ubuntu, and Jekyll
-description: >-
-  (V035 20200402) Just, GitHub Pages, Ubuntu, and Jekyll
+description: (V036-20200810)
+      Just, GitHub Pages, Ubuntu, and Jekyll<br>
+      This site is managed by VauLSMorg (vlsm.org) since 2020.
+google_analytics: UA-89852122-6
 author: "Mr. Yoda-Yoda"
 theme: jekyll-theme-hacker
 github: [metadata]
